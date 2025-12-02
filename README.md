@@ -53,9 +53,9 @@ Podem aplicar una poda per millorar l'eficiència:
 
 **Amplada de l'arbre** és exacta, el nombre de motxilles + 1, 
 
-![arbre](/EspaiCercaDesembre2024.drawio.drawio.png)
+![arbre](/EspaiCercaDesembre2024.drawio.png)
 
-![arbre](/EspaiCercaDesembre2024_incorrecte.drawio.drawio.png)
+![arbre](/EspaiCercaDesembre2024_incorrecte.drawio.png)
 
 ### 🔹 Marcatge
 No cal marcar articles perquè a cada nivell assignarem un article, per tant, no té sentit comprovar si ja s'ha assignat aquest article a un altre nivell.
