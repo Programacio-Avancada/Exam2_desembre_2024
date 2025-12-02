@@ -7,7 +7,8 @@ public class Solucio {
     private Article[] articles; // articles
     private Motxilla[] motxilles; // motxilles a emplenar
 	
-	// Atenció: a la classe motxilla s'han afegit els atributs: pesActual, volumActual i quantsEssencials per controlar la solució actual
+	// Atenció: a la classe motxilla s'han afegit els atributs: pesActual, volumActual i quantsEssencials per controlar la solució actual.
+	// A la solució de la Lina, la solució es guarda dins de les motxilles, per tant, cal clonar les motxilles per guarda la millor solució.
 
     // atributs de la solució actual
     private int[] solucioActual; // a l'índex article assigno l'índex motxilla o -1 (es queda a fora)
@@ -171,3 +172,4 @@ public class Solucio {
         return motxilles;
     }
 } //fi classe Solució
+
